@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import fr.nova.beans.Student;
-import fr.nova.services.StudentRegistration;
+import fr.bouka.jxspringapp.beans.Student;
+import fr.bouka.jxspringapp.services.StudentRegistration;
 
 @Controller
 public class StudentRetrieveController {

@@ -1,4 +1,4 @@
-package fr.bouka.jxspringapp;
+package fr.bouka.jxspringapp.rest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DemoApplicationTests {
+public class SpringBootRestApplicationTests {
 
 	@Test
 	public void contextLoads() {

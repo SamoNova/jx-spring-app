@@ -3,7 +3,7 @@ package fr.bouka.jxspringapp.services;
 import java.util.ArrayList;
 import java.util.List;
 
-import fr.nova.beans.Student;
+import fr.bouka.jxspringapp.beans.Student;
 
 public class StudentRegistration {
 
